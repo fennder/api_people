@@ -1,5 +1,5 @@
-### api_people
+# Desenvolvimento de aplicação api_people
 
-## Teste
+## Usando RubyonRaisl + PostgreSql
 
-# Agora
+### 
